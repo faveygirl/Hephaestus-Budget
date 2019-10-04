@@ -65,13 +65,13 @@ if (isset($_SESSION['user'])) {
     <div class="features-row">
       <div class="inner-feature">
         <img src="assets/images/calc.png" />
-        <p>
+        <p class="color">
          <a href="https://hephbudget.herokuapp.com/home.php" target="_blank"> Easily create budgets based on priorities set on each item.</a>
         </p>
       </div>
       <div class="inner-feature">
         <img src="assets/images/mobile.png" />
-        <p><a href="https://medium.com/@faitygal/hephas-budget-tracker-easy-access-on-multiple-devices-e81595913156"target="_blank"> Easy access on multiple devices</a></p>
+        <p class="color"><a href="https://medium.com/@faitygal/hephas-budget-tracker-easy-access-on-multiple-devices-e81595913156"target="_blank"> Easy access on multiple devices</a></p>
       </div>
     </div>
   </div>
